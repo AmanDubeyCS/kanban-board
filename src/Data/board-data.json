@@ -1,0 +1,78 @@
+[
+    {
+        "name":"Draft",
+        "items": [
+            {
+                "id":1,
+                "title": "Company website redesign.",
+                "severity": "Criticle",
+                "type": "Back-end",
+                "rating": "5.3"
+            },
+            {
+                "id":2,
+                "title": "Mobile app login process prototype.",
+                "severity": "Low",
+                "type": "Server",
+                "rating": "6.2"
+            }
+        ]
+    },
+    {
+        "name":"Unsolved",
+        "items": [
+            {
+                "id":3,
+                "title": "Research and strategy for upcoming project.",
+                "severity": "High",
+                "type": "Front-end",
+                "rating": "8.3"
+            }
+        ]
+    },
+    {
+        "name":"Under Review",
+        "items": [
+            {
+                "id":4,
+                "title": "Dashboard layout redesign.",
+                "severity": "Low",
+                "type": "Hardware",
+                "rating": "5.6"
+            },
+            {
+                "id":5,
+                "title": "Social media posts.",
+                "severity": "Medium",
+                "type": "Front-end",
+                "rating": "9.3"
+            }
+        ]
+    },
+    {
+        "name":"Solved",
+        "items": [
+            {
+                "id":6,
+                "title": "Review client spec document and give feedback.",
+                "severity": "Medium",
+                "type": "Front-end",
+                "rating": "2.5"
+            },
+            {
+                "id":7,
+                "title": "Navigation designs.",
+                "severity": "Low",
+                "type": "Hardware",
+                "rating": "3"
+            },
+            {
+                "id":8,
+                "title": "Create style guide based on previous feedback",
+                "severity": "Criticle",
+                "type": "Server",
+                "rating": "3.5"
+            }
+        ]
+    }
+]
